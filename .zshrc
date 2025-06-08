@@ -128,4 +128,4 @@ alias ls='lsd'
 #
 #
 # export MANPAGER='env MAN_PN=1 vim --not-a-term -M +MANPAGER -'
-export LIBVIRT_DEFAULT_URI="qemu:///system"
+# export LIBVIRT_DEFAULT_URI="qemu:///system"
