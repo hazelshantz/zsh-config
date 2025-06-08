@@ -1,3 +1,5 @@
+*placeholder for preview*
+
 ## zsh-config
 ### My zsh configuration with powerlevel10k
 
@@ -13,5 +15,5 @@ you still need to install the following dependencies:
 
 the powerlevel10k theme must be installed with oh-my-zsh, from https://github.com/romkatv/powerlevel10k
 
-Instructions/how to:
+## Instructions/how to:
 *placeholder*
