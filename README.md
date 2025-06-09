@@ -1,4 +1,6 @@
-*placeholder for preview*
+![preview](https://github.com/user-attachments/assets/a054d1d4-644d-43d2-84d0-6c5363f088f8)
+
+
 
 ## zsh-config
 ### My zsh configuration with powerlevel10k
