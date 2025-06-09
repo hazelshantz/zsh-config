@@ -31,3 +31,4 @@ the powerlevel10k theme must be installed with oh-my-zsh, from https://github.co
 ### "but it doesn't work, help!"
 open an issue tracker and I'll help you with it.
 Let me know if I'm missing something to add to this readme, so this configuration works as expected.
+You may refer to each dependency component docs for further info.
